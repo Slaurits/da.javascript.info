@@ -17,7 +17,7 @@ For eksempel:
 
 <body>
 
-  <p>Before the script...</p>
+  <p>Før scripten...</p>
 
 *!*
   <script>
@@ -25,7 +25,7 @@ For eksempel:
   </script>
 */!*
 
-  <p>...After the script.</p>
+  <p>...Efter scripten.</p>
 
 </body>
 
